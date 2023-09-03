@@ -1,0 +1,5 @@
+F:\Code\CppProject\video_player\x64\Debug\video_player.vcxproj.AssemblyReference.cache
+F:\Code\CppProject\video_player\x64\Debug\video_player.vcxproj.SuggestedBindingRedirects.cache
+F:\Code\CppProject\video_player\x64\Debug\video_player.exe
+F:\Code\CppProject\video_player\x64\Debug\video_player.MyForm.resources
+F:\Code\CppProject\video_player\x64\Debug\video_player.vcxproj.GenerateResource.cache

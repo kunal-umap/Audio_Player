@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+F:\Code\CppProject\video_player\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  video_player.vcxproj -> F:\Code\CppProject\video_player\x64\Debug\video_player.exe
